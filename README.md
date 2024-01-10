@@ -63,9 +63,11 @@ Usage
 * CSS
 * JavaScript
 
-## Screenshots
+## Webpage Screenshot
+![Alt text](assets/images/Password-Generator.png)
 
 ## Live Demo
 
-Visit the live demo of the Password Generator here.
+Visit the live demo of the Password Generator here:
+
 
