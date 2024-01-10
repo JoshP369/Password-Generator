@@ -68,6 +68,8 @@ Usage
 
 ## Live Demo
 
-Visit the live demo of the Password Generator here:
+Visit the live demo of the Password Generator here: 
+[Live Link](https://joshp369.github.io/Password-Generator) 
+
 
 
